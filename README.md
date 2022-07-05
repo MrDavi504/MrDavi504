@@ -7,8 +7,8 @@
 - 🤠 In second plan, I study everything that involves information security, I make use of the kalilinux tools, still in an innocent way, I may be doing something stupid, but at the same time curious, because it is in practice that I do well.
 - 🤩 But at the moment, focus at the moment is to learn about websites structure, understand what's underneath, because my eyes shine for codes, my first love was for python, but I had to connect with my first love of all, which is information security.
 - 🛠 Access important information, take care of it, analyze the security of sites, and look for errors and fix them, solve problems, I am very curious and committed.
-- 
-________    _____ 🍂  🍂
+
+ _________________ 🍂 🍂🍂
 ______________ 🍂_🍂_ 🍂_🍂
 ____________ 🍂__🍂__ 🍂__🍂
 ___________ 🍂___🍂__ 🍂___🍂
@@ -51,3 +51,32 @@ ________█████████████_█████
 █████████_███████
 ██████████
 ██████████
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
